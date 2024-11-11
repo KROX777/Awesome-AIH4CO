@@ -88,7 +88,7 @@ Research, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-3327
 7. Searching large neighborhoods for integer linear programs with contrastive learning. ICML, 2023. [paper](https://proceedings.mlr.press/v202/huang23g/huang23g.pdf)
 *Taoan Huang, Aaron M Ferber, Y. T. B. D., and others*
 
-##AI-and-Heuristics
+## AI-and-Heuristics
 - Heuristics and AI methods can also perform their own functions independently to solve CO problems.
 
 1. A learning-based metaheuristic for a multi-objective agile inspection planning model under uncertainty. European Journal of Operational Research, 2020. [paper](https://www.sciencedirect.com/science/article/pii/S0377221720300990)
@@ -97,7 +97,7 @@ Research, 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-3327
 2. Generalize learned heuristics to solve large-scale vehicle routing problems in real-time. ICLR, 2023. [paper](https://iclr.cc/virtual/2023/poster/11865)
 *Hou Qingchun, Yang Jingwei, Su Yiqiang, Wang Xiaoqing and Deng Yuming*
 
-##Benchmark Standards
+## Benchmark Standards
 
 1. ROCO: A general framework for evaluating robustness of combinatorial optimization solvers on graphs. ICLR, 2023. [paper](https://iclr.cc/virtual/2023/poster/11370)
 *Lu Han, Li Zenan, W. R, and others*
